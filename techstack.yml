@@ -1,7 +1,8 @@
 repo_name: patrickhaley/excursion
 report_id: 43d085a11c4699def2f2f7b6c1d6a674
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-06T20:27:50+00:00'
+timestamp: '2024-01-05T08:28:39+00:00'
 requested_by: patrickhaley
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/patrickhaley/excursion
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,4 +24,5 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/patrickhaley/excursion/blob/main/index.html
   detection_source: index.html
